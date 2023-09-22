@@ -1,2 +1,2 @@
-# 💻Meus Projetros💻
+# 💻Meus Projetos💻
 Portifolio de desenvolvedor
